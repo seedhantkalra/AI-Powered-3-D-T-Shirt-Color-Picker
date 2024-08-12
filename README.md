@@ -1,8 +1,13 @@
-# React + Vite
+# AI-Powered 3D T-Shirt Color Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+The AI-Powered 3D T-Shirt Color Picker is a sophisticated web application that allows users to select and customize the color of 3D t-shirts. This app leverages advanced AI technology, particularly OpenAI's API, to offer users intelligent color suggestions based on their preferences. The application also provides real-time 3D rendering of t-shirts, giving users an interactive and seamless customization experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **3D Visualization:** Real-time 3D rendering of t-shirts using Three.js.
+- **AI-Powered Color Suggestions:** The app utilizes OpenAI to suggest colors based on user input.
+- **Responsive Design:** The app is fully responsive and works seamlessly on both desktop and mobile devices.
+- **Backend Integration:** The backend, built with Node.js and Express, handles API requests, interacts with MongoDB, and integrates with OpenAI for AI functionalities.
+
